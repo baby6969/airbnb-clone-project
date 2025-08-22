@@ -65,8 +65,8 @@ Documenting colors and typography ensures consistency across the application, he
 | Scrum Master        |Facilitates agile processes, removes blockers, organizes meetings
 
  
-##UI Component Patterns
-###Planned Components
+## UI Component Patterns
+### Planned Components
 
    1. Navbar
         Logo
