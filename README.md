@@ -17,7 +17,7 @@ This is a full-stack clone of the popular accommodation booking platform AirBnB.
 - **Database:** MongoDB / PostgreSQL
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma for UI/UX design
-## UI/UIx Design planning
+## UI/UX Design Planning
 ### Design Goals
 - Create an intuitive booking flow
 - Maintain visual consistency
